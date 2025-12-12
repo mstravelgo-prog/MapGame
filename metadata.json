@@ -1,0 +1,5 @@
+{
+  "name": "USA Map Puzzle Game",
+  "description": "An interactive educational game where users drag and drop US states into their correct locations on a map. Features real-time validation, score tracking, and AI-powered fun facts about states.",
+  "requestFramePermissions": []
+}
